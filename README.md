@@ -90,7 +90,7 @@ patterns used in modern SaaS applications.
 ## 1. Clone the Repository
 
 ``` bash
-git clone https://github.com/your-username/smart-todo-app.git
+git clone https://github.com/Pratham2137/smart-todo-app.git
 cd smart-todo-app
 ```
 
@@ -187,16 +187,6 @@ When a task is moved, the list updates and persists the new order.
 
 ------------------------------------------------------------------------
 
-# 📸 Screenshots
-
-Add screenshots of your application:
-
-    /screenshots/dashboard.png
-    /screenshots/dark-mode.png
-    /screenshots/contact-page.png
-
-------------------------------------------------------------------------
-
 # 🚀 Future Improvements
 
 Possible features to extend the project:
@@ -233,4 +223,4 @@ This project is open-source and available under the **MIT License**.
 **Pratham**\
 Frontend Developer \| MERN Stack Enthusiast
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Pratham2137
